@@ -24,7 +24,10 @@ info
 # Завдання 2
 
 BFS шлях: ['Kyiv', 'Kharkiv', 'Dnipro', 'Zaporizhzhia']
+
 DFS шлях: ['Kyiv', 'Lviv', 'Odesa', 'Dnipro', 'Zaporizhzhia']
 
 BFS гарантує найменшу кількість кроків (не обов’язково найкоротшу відстань).
+
 DFS йде вглиб і може знайти будь-який шлях.
+
